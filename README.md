@@ -1,2 +1,2 @@
 # Codeforces
-In this repository you will find the solution of some hard CP problem of codeforces.
+In this repository you will find the solutions of some hard CP problems of codeforces.
